@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    /* Fridt section */
+    .container{
+    max-width: 80%;
+    margin: auto;
+    }
+    .div1{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+    }
+    .logo1{
+    max-width: 20%;
+    }
+    .nav{
+    margin-top: 30px;
+    }
+    .nav a:hover{
+    text-decoration: underline;
+    }
+    .nav a{
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+    font-weight: 550;
+    padding: 0px 10px;
+    }
+    /* Fridt section end */
+    /* 2nd section start */
+    .div2{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFFFF7;
+    padding: 20px 20px 0px 20px;
+    margin: 20px 0px;
+    }
+    .div2 img{
+    width: 50%;
+    }
+    .img{
+    margin-bottom: -4px;
+    }
+    .div2 h1{
+    font-size: 50px;
+    margin: 25px 40px;
+    }
+    .div2 p{
+    margin: 25px 40px;
+    padding-right: 40px;
+    font-size: larger;
+    }
+    /* 2nd section end */
+    /* 3rd section start */
+    .div3{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px 5px;
+    margin: 20px 0px;
+    }
+    button{
+    padding: 15px 20px;
+    margin-top: 20px;
+    background-color: rgba(0, 128, 0, 0.422);
+    color:white;
+    border: none;
+    }
+    button:hover{
+    background-color: rgba(0, 0, 255, 0.427);
+    color: #FFFFF7;
+    }
+    .div3 p{
+    font-size: larger;
+    }
+    .product1 p{
+    padding-right: 50px;
+    }
+    /* 3rd section end */
+    /* 4th section start */
+    
+   
+    .card1 img{
+    width: 15%;
+    border-radius: 50%;
+    }
+    .pp1{
+    display: flex;
+    justify-content: first baseline;
+    margin: 50px 0px;
+    }
+    .pp1 h3{
+    margin-top: 40px;
+    }
+    .pp1 img{
+    margin-right: 30px;
+    }
+    .div4{
+    display: flex;
+    margin: 20px 0px;
+    }
+    .div4 p{ 
+    font-size: larger;
+    padding-right: 30px;
+    text-align: center;
+    }
+    .card1{
+    border: 1px solid rgb(35, 10, 10);
+    margin-left: 10px;
+    padding: 20px;
+    }
+     /* 4th section end */
+    /* footer */
+    .fotter a{
+    text-decoration: none;
+    margin-right: 30px;
+    }
+    .footer1{
+    margin: 20px 0px;
+    }
+    .fotter{
+    text-align: center;
+    }
+    .pdiv{
+    text-align: center;
+    font-weight: bold;
+    }
